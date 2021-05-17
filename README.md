@@ -1,15 +1,7 @@
 # sk_labs
-Facial semantic segmentation 기술을 이용한 맞춤 키오스크 서비스
-
-# 1. 제목(글머리) 작성
-# H1 Project Title
 ---
-
-## H2 부제목
-### H3 소제목
-#### H4 제목4
-##### H5 제목5
-###### H6 제목6
+# H1 Project Title
+Facial semantic segmentation 기술을 이용한 맞춤 키오스크 서비스
 
 
 # 2. 번호 없는 리스트 작성
