@@ -17,12 +17,12 @@
     + 키오스크 화면에서 연령대에 맞는 광고(어린이: 캐릭터 애니메이션 / 성인: 랜덤 추천 / 어르신: 베스트 메뉴) 제공
 ---
 #### 4. 기술개발 전략
-기술 흐름 다이어그램
+*기술 흐름 다이어그램*
+<br>
 ![image](https://user-images.githubusercontent.com/69234788/118435546-230cb480-b71a-11eb-9b20-11b5304e8c4d.png)
 <br>
-기능 구현 다이어그램
+*기능 구현 다이어그램*
 ![image](https://user-images.githubusercontent.com/69234788/118435555-2738d200-b71a-11eb-8aff-6bf6b5e88acd.png)
-<br>
 #### 5. 메인 화면
 ---
 #### 6. 관련 논문 
