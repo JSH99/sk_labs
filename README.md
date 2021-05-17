@@ -26,6 +26,7 @@
 <br>
 *기능 구현 다이어그램*
 ![image](https://user-images.githubusercontent.com/69234788/118435555-2738d200-b71a-11eb-8aff-6bf6b5e88acd.png)
+
 ---
 #### 5. 메인 화면
 ---
