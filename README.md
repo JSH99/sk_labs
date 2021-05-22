@@ -29,7 +29,7 @@
 
 ---
 #### 5. 메인 화면
-[관련영상](https://youtu.be/tP5MqOjBR-U "유튜브 링크")
+#####[관련영상](https://youtu.be/tP5MqOjBR-U "유튜브 링크")
 ---
 #### 6. 관련 논문 
 > Abdolrashidi, Amirali, Mehdi Minaei, Elham Azimi, and Shervin Minaee. "Age and Gender Prediction From Face Images Using Attentional Convolutional Network." arXiv preprint arXiv:2010.03791 (2020).
