@@ -29,6 +29,8 @@
 
 ---
 #### 5. 메인 화면
+![시연](https://user-images.githubusercontent.com/69234788/120221958-3707f880-c27a-11eb-9f0c-f94536a5e71a.jpeg)
+
 [소개영상](https://youtu.be/tP5MqOjBR-U "유튜브 링크")
 ---
 #### 6. 관련 논문 
